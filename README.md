@@ -14,3 +14,14 @@ Sorular
 ### Evet daha önce MVC üzerinde CRUD işlemlerini içeren projeler yaptım.
 ### Grid View ve arama özelliklerini eklemek isterdim.
 ### Bu yapı projelerde en sık kullanılan fonksiyonlardandır.
+
+https://www.martinkysel.com/codility-solutions/
+https://github.com/ghanan94/codility-lesson-solutions
+https://funnelgarden.com/frogjmp-codility-solution/
+https://github.com/clinyong/codility
+https://github.com/johnmee/codility/blob/master/ex-5-1-CountDiv.py
+https://gist.github.com/marco-souza/a6f7c1af8a738ed14eac3e4d85e3d262
+https://github.com/Merthaskan/Trendyol
+https://notes.kartashov.com/2016/06/30/codility-lessions-in-bash/
+https://www.xspdf.com/resolution/52266555.html
+https://www.xspdf.com/resolution/53064577.html
