@@ -25,3 +25,7 @@ https://github.com/Merthaskan/Trendyol
 https://notes.kartashov.com/2016/06/30/codility-lessions-in-bash/
 https://www.xspdf.com/resolution/52266555.html
 https://www.xspdf.com/resolution/53064577.html
+
+https://github.com/geektimus/java-challenges/blob/master/src/main/java/com/codingmaniacs/codility/StringChallenges.java
+
+https://stackoverflow.com/questions/63459099/algorithm-to-reduce-the-binary-value-to-zero-after-performing-operations
